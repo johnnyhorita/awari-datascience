@@ -11,7 +11,7 @@ Essas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 * [SLACK](https://slack.com/intl/pt-br/) - Software de comunicação
 * [GitHub](https://github.com/) - "Repositório" para versionamento de código
 * [Google Drive](https://drive.google.com/) - Armazenamento na Web
-* [Google Colab](https://colab.research.google.com/) - Editor notebook "Jupyter"
+* [Google Colab](https://colab.research.google.com/) - Editor notebook
 * [Anaconda com Python](https://www.anaconda.com/products/individual#Downloads) - Plataforma de Softwares
 
 	Observação: Na instalação marque as duas opções (Add anaconda to my PATH e Register Anaconda as my default Python x.xx)
@@ -24,5 +24,5 @@ Essas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 
 
 ### Licença
-	Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE.md] (LICENSE.md) para obter detalhes
+	Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
 
