@@ -4,7 +4,7 @@ Intensivo de Data Science com mentoria individual
 O projeto foi elaborado para armazenar os códigos desenvolvidos ao longo do curso de Data Science ministrado pela Sara Malvar da turma intensivo-novembro-20.
 
 ### Começando
-Essas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local para fins de desenvolvimento e teste.
+Essas instruções fornecerão uma cópia dos programas/ projetos /arquivos funcionando em sua máquina local para fins de aprendizado, desenvolvimento e testes.
 
 
 ### Pré-requisitos
